@@ -6,4 +6,4 @@
 * I implemented a bonus, adding in a radio button
 * A table section for 3 different product
 * There are two images, one is a bonus image with a round border
-* 
+  
